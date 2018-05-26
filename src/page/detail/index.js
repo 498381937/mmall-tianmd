@@ -1,9 +1,4 @@
-/*
-* @Author: Rosen
-* @Date:   2017-05-28 19:45:49
-* @Last Modified by:   Rosen
-* @Last Modified time: 2017-05-29 18:39:01
-*/
+
 
 'use strict';
 

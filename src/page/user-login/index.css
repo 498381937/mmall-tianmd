@@ -1,13 +1,8 @@
-/*
-* @Author: Rosen
-* @Date:   2017-05-21 15:11:05
-* @Last Modified by:   Rosen
-* @Last Modified time: 2017-05-21 22:46:39
-*/
+
 /* 最外层容器 */
 .page-wrap{
     padding: 40px 0;
-    background: #e72955;
+    background: #e7e7e7;
 }
 /* 表单框 */
 .user-con{
